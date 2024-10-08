@@ -1,11 +1,11 @@
 {
-    "name": "my_awesome_name",
-    "short_name": "my_awesome_name",
+    "name": "mi_formulario",
+    "short_name": "mi_formulario",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Mi primer app",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
